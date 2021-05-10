@@ -16,7 +16,7 @@
 
 
 
-<p>Hi, I'm Madhan Kumar,a  Developer, Marketer and a Mentor. I have worked on Web Devleopment, Flutter App Development, Ethical Hacking, Cryptography, Blockchain. Currenly learning Data Science and Mentoring. </p>
+<p>Hi, I'm Madhan Kumar,a  Developer, Marketer and a Mentor. I have worked on Web Devleopment, Flutter App Development, Ethical Hacking, Cryptography, Blockchain. Currenly learning Data Science </p>
 
 - ⚡ Seek Discomfort
 - 🖥️ Check out my site: [themadhankumar.com](themadhankumar.com)
