@@ -52,8 +52,8 @@
 <img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/mysql.svg" alt="MySQL Logo png" title="MySQL" width="28" height="28" />
 <img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/mongodb.svg" alt="mongodb" title="MongoDB" width="28" height="28" />
 <h2>📈 My GitHub Stats</h2>
-<p align="left"> [![Madhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=themadhankumar&count_private=true&show_icons=true)](https://github.com/themadhankumar/github-readme-stats)
-<!--<img src="https://github-readme-stats.vercel.app/api?username=themadhankumar&show_icons=true&theme=gotham" alt="themadhankumar" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=themadhankumar&show_icons=true&theme=gotham&count_private=true" alt="themadhankumar" />
+<!--
 **themadhankumar/themadhankumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
