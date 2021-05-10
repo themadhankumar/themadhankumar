@@ -20,7 +20,7 @@
 
 - ⚡ Seek Discomfort
 - 🖥️ Check out my site: [themadhankumar.com](themadhankumar.com)
-- 💬 Drop me a **I am from Github** in my  [Instagram](instagram.com/themadhankumar) or [Twitter](twitter.com/themadhankumar) DMs. Let's Talk.
+- 💬 Drop me a **I am from your Github** in my [Instagram](instagram.com/themadhankumar) or [Twitter](twitter.com/themadhankumar) DMs. Let's Talk.
 - 📝 And my [Resume](https://github.com/themadhankumar/site/blob/main/assets/MadhanKumar.pdf)
 
 
