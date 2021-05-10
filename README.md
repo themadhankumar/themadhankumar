@@ -13,7 +13,10 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/linkedin.png" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=themadhankumar.themadhankumar)
+<img src="https://github.com/themadhankumar/site/blob/main/assets/img/titlecard.jpg">
+
+
 <!--
 **themadhankumar/themadhankumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
