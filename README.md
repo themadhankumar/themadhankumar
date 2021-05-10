@@ -52,7 +52,7 @@
 <img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/mysql.svg" alt="MySQL Logo png" title="MySQL" width="28" height="28" />
 <img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/mongodb.svg" alt="mongodb" title="MongoDB" width="28" height="28" />
 <details>
-<summary><h2>📈 My GitHub Stats</h2></summary>
+<h2><summary>📈 My GitHub Stats</summary></h2>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=themadhankumar&show_icons=true&theme=graywhite&count_private=true" alt="themadhankumar" />
   </details>
 <!--
