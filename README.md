@@ -39,20 +39,20 @@
 <img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/git.svg" alt="git Logo png" title="Git" width="28" height="28" />
 <img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/Bootstrap.svg" alt="Bootstrap Logo png" title="Bootstrap" width="28" height="28" />
 <img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/kali-linux.svg" alt="Kali Linux Logo png" title="Kali Linux" width="28" height="28" />
-<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/google_analytics-icon.svg" alt="Google Analytics Logo png" title="Google Analytics" width="25" height="25" />
-<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/discord.svg" alt="Discord Logo png" title="Discord" width="25" height="25" />
-<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/notion.svg" alt="Notion Logo png" title="Notion" width="25" height="25" />
-<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/slack.svg" alt="Slack Logo png" title="Slack" width="25" height="25" />
-<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/trello.svg" alt="Trello Logo png" title="Trello" width="25" height="25" />
+<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/google_analytics-icon.svg" alt="Google Analytics Logo png" title="Google Analytics" width="28" height="28" />
+<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/discord.svg" alt="Discord Logo png" title="Discord" width="28" height="28" />
+<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/notion.svg" alt="Notion Logo png" title="Notion" width="28" height="28" />
+<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/slack.svg" alt="Slack Logo png" title="Slack" width="28" height="28" />
+<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/trello.svg" alt="Trello Logo png" title="Trello" width="28" height="28" />
 
-<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/canva.svg" alt="Canva Logo png" title="Canva" width="25" height="25" />
-<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/adobe-illustrator-cc.svg" alt="Adobe Illustrator Logo png" title="Adobe Illustrator" width="25" height="25" />
-<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/photoshop-cc.svg" alt="Adobe Photoshop Logo png" title="Adobe Photoshop" width="25" height="25" />
-<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/adobe-xd.svg" alt="Adobe XD Logo png" title="Adobe XD" width="25" height="25" />
-<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/davinci-resolve-100.png" alt="Davinci Resolve Logo png" title="Davinci Resolve" width="25" height="25" />
+<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/canva.svg" alt="Canva Logo png" title="Canva" width="28" height="28" />
+<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/adobe-illustrator-cc.svg" alt="Adobe Illustrator Logo png" title="Adobe Illustrator" width="28" height="28" />
+<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/photoshop-cc.svg" alt="Adobe Photoshop Logo png" title="Adobe Photoshop" width="28" height="28" />
+<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/adobe-xd.svg" alt="Adobe XD Logo png" title="Adobe XD" width="28" height="28" />
+<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/davinci-resolve-100.png" alt="Davinci Resolve Logo png" title="Davinci Resolve" width="28" height="28" />
 
-<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/mysql.svg" alt="MySQL Logo png" title="MySQL" width="25" height="25" />
-<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/mongodb.svg" alt="mongodb" title="MongoDB" width="25" height="25" />
+<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/mysql.svg" alt="MySQL Logo png" title="MySQL" width="28" height="28" />
+<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/mongodb.svg" alt="mongodb" title="MongoDB" width="28" height="28" />
 <!--
 **themadhankumar/themadhankumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
