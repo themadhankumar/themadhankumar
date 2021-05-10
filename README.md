@@ -1,5 +1,4 @@
 ### Hi there 👋
-<img src="https://github.com/themadhankumar/site/blob/main/assets/img/titlecard.jpg">
 
 <a href="https://instagram.com/themadhankumar">  
 <img align="left" alt="Madhan Kumar | Twitter" width="22px" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/instagram.png" />
