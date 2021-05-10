@@ -21,7 +21,7 @@
 - ⚡ Seek Discomfort
 - 🖥️ Check out my site: [themadhankumar.com](https://themadhankumar.com)
 - 💬 Drop me a **I am from your Github** in my [Instagram](https://instagram.com/themadhankumar) or [Twitter](https://twitter.com/themadhankumar) DMs. Let's Talk.
-- 📝 And my [Resume](https://github.com/themadhankumar/site/blob/main/assets/MadhanKumar.pdf)
+- 📝 And my <a href="assets/MadhanKumar.pdf">Resume</a>
 
 
 <h2>🚀 Some Tools I Use</h2>
