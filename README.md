@@ -31,7 +31,6 @@
 <img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/css3.svg" alt="CSS3 Logo png" title="CSS3" width="28" height="28" />&nbsp;
 <img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/dartlang.svg" alt="Dart Logo png" title="Dart" width="28" height="28" />&nbsp;
 <img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/gnubash.svg" alt="Linux/GNU Bash Logo png" title="Linux/GNU Bash" width="28" height="28" />&nbsp;
-
 <img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/linux.svg" alt="Linux Logo png" title="Linux" width="28" height="28" />&nbsp;
 <img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/flutter-logo.svg" alt="Flutter Logo png" title="Flutter" width="28" height="28" />&nbsp;
 <img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/git.svg" alt="git Logo png" title="Git" width="28" height="28" />&nbsp;
@@ -42,13 +41,11 @@
 <img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/notion-white.svg" alt="Notion Logo png" title="Notion" width="28" height="28" />&nbsp;
 <img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/slack.svg" alt="Slack Logo png" title="Slack" width="28" height="28" />&nbsp;
 <img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/trello.svg" alt="Trello Logo png" title="Trello" width="28" height="28" />&nbsp;
-
 <img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/canva.svg" alt="Canva Logo png" title="Canva" width="28" height="28" />&nbsp;
 <img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/adobe-illustrator-cc.svg" alt="Adobe Illustrator Logo png" title="Adobe Illustrator" width="28" height="28-" />&nbsp;
 <img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/photoshop-cc.svg" alt="Adobe Photoshop Logo png" title="Adobe Photoshop" width="28" height="28" />&nbsp;
 <img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/adobe-xd.svg" alt="Adobe XD Logo png" title="Adobe XD" width="28" height="28" />&nbsp;
 <img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/davinci-resolve-100.png" alt="Davinci Resolve Logo png" title="Davinci Resolve" width="28" height="28" />&nbsp;
-
 <img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/mysql.svg" alt="MySQL Logo png" title="MySQL" width="28" height="28" />&nbsp;
 <img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/mongodb.svg" alt="mongodb" title="MongoDB" width="28" height="28" />
 
