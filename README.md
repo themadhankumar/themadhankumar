@@ -1,31 +1,13 @@
 <!--### Hi there 👋-->
-<<<<<<< HEAD
 
 <p><a href = "https://www.themadhankumar.com">
   <img src="https://github.com/themadhankumar/site/blob/main/assets/img/titlecard.jpg" />
  </a></p>
-
-
-
+    
  <p>
- <a href="https://themadhankumar.com"><img src="https://img.shields.io/badge/-theMadhanKumar.com-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://themadhankumar.com" alt="Website Badge"></a>  <a href="https://www.linkedin.com/in/madhan-kumar-0495b9a5/"><img src="https://img.shields.io/badge/-@Madhan Kumar-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/madhan-kumar-0495b9a5/" alt="LinkedIn Badge"></a> <a href="https://instagram.com/themadhankumar"><img src="https://img.shields.io/badge/-@theMadhanKumar-white?style=flat-square&amp;labelColor=white&amp;logo=instagram&amp;link=https://instagram.com/themadhankumar" alt="theMadhanKumar Instagram"></a> <a href="https://www.twitter.com/themadhankumar"> <img alt="theMadhanKumar Twitter" src="https://img.shields.io/twitter/follow/theMadhanKumar?style=social" />
+ <a href="https://themadhankumar.com"><img src="https://img.shields.io/badge/-theMadhanKumar.com-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://themadhankumar.com" alt="Website Badge"></a>  <a href="https://www.linkedin.com/in/madhan-kumar-0495b9a5/"><img src="https://img.shields.io/badge/-@Madhan Kumar-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/madhan-kumar-0495b9a5/" alt="LinkedIn Badge"></a> <a href="https://instagram.com/themadhankumar"><img src="https://img.shields.io/badge/-@theMadhanKumar-white?style=flat-square&amp;labelColor=white&amp;logo=instagram&amp;link=https://instagram.com/themadhankumar" alt="theMadhanKumar Instagram"></a> <a href="https://www.hackerrank.com/themadhankumar"><img src="https://img.shields.io/badge/-@theMadhanKumar-white?style=flat-square&amp;labelColor=white&amp;logo=hackerrank&amp;link=https://hackerrank.com/themadhankumar" alt="theMadhanKumar HackerRank"></a> <a href="https://www.twitter.com/themadhankumar"> <img alt="theMadhanKumar Twitter" src="https://img.shields.io/twitter/follow/theMadhanKumar?style=social" />
 </a>
 </p>
-
-=======
-
-<p><a href = "https://www.themadhankumar.com">
-  <img src="https://github.com/themadhankumar/site/blob/main/assets/img/titlecard.jpg" />
- </a></p>
-  
-  
-  
- <p>
- <a href="https://themadhankumar.com"><img src="https://img.shields.io/badge/-theMadhanKumar.com-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://themadhankumar.com" alt="Website Badge"></a>  <a href="https://www.linkedin.com/in/madhan-kumar-0495b9a5/"><img src="https://img.shields.io/badge/-@Madhan Kumar-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/madhan-kumar-0495b9a5/" alt="LinkedIn Badge"></a> <a href="https://instagram.com/themadhankumar"><img src="https://img.shields.io/badge/-@theMadhanKumar-white?style=flat-square&amp;labelColor=white&amp;logo=instagram&amp;link=https://instagram.com/themadhankumar" alt="theMadhanKumar Instagram"></a> <a href="https://www.twitter.com/themadhankumar"> <img alt="theMadhanKumar Twitter" src="https://img.shields.io/twitter/follow/theMadhanKumar?style=social" />
-</a>
-</p>
-
->>>>>>> 3adec9cba4208e3be259d80d65838603f33b3c24
 
 ![](https://visitor-badge.glitch.me/badge?page_id=themadhankumar.themadhankumar)
 
@@ -36,7 +18,6 @@
 - ⚡ Seek Discomfort
 - 🖥️ Check out my site: [themadhankumar.com](https://themadhankumar.com)
 - 💬 Drop me a **I am from your Github** in my [Instagram](https://instagram.com/themadhankumar) or [Twitter](https://twitter.com/themadhankumar) DMs. Let's Talk.
-- 📝 And my <a href="assets/MadhanKumar.pdf">Resume</a>
 
 
 <h2>🚀 Some Tools I Use</h2>
@@ -63,13 +44,19 @@
 <img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/trello.svg" alt="Trello Logo png" title="Trello" width="28" height="28" />
 
 <img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/canva.svg" alt="Canva Logo png" title="Canva" width="28" height="28" />
-<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/adobe-illustrator-cc.svg" alt="Adobe Illustrator Logo png" title="Adobe Illustrator" width="28" height="28" />
+<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/adobe-illustrator-cc.svg" alt="Adobe Illustrator Logo png" title="Adobe Illustrator" width="28" height="28-" />
 <img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/photoshop-cc.svg" alt="Adobe Photoshop Logo png" title="Adobe Photoshop" width="28" height="28" />
 <img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/adobe-xd.svg" alt="Adobe XD Logo png" title="Adobe XD" width="28" height="28" />
 <img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/davinci-resolve-100.png" alt="Davinci Resolve Logo png" title="Davinci Resolve" width="28" height="28" />
 
 <img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/mysql.svg" alt="MySQL Logo png" title="MySQL" width="28" height="28" />
 <img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/mongodb.svg" alt="mongodb" title="MongoDB" width="28" height="28" />
+
+<h2>📈 My GitHub Stats</h2>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=themadhankumar&show_icons=true&theme=graywhite&count_private=true" alt="themadhankumar" />
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="the.madhankumar" data-color="#FFDD00" data-emoji="🍦"  data-font="Poppins" data-text="Buy me an icecream" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+
 <!--
 **themadhankumar/themadhankumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
