@@ -16,6 +16,7 @@
 <p>Hi, I'm Madhan Kumar,a  Developer, Marketer and a Mentor. I have worked on Web Devleopment, Flutter App Development, Ethical Hacking, Cryptography, Blockchain. Currenly learning Data Science </p>
 
 - ⚡ Seek Discomfort
+- 👥 Open to Work and Collab
 - 🖥️ Check out my site: [themadhankumar.com](https://themadhankumar.com)
 - 💬 Drop me a **I am from your Github** in my [Instagram](https://instagram.com/themadhankumar) or [Twitter](https://twitter.com/themadhankumar) DMs. Let's Talk.
 
@@ -54,18 +55,3 @@
 
 <h3>If you appreciate what I do, You can make my day by getting me an Ice Cream 😁❤️</h3>
 <p><a href="https://www.buymeacoffee.com/the.madhankumar" target="_blank"><img src="https://github.com/themadhankumar/themadhankumar/blob/main/assets/bmc-white.svg?raw=true" alt="Buy Me A Coffee" height="58.23" width="200"></a></p>
-
-<!--<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="the.madhankumar" data-color="#FFDD00" data-emoji="🍦"  data-font="Poppins" data-text="Buy me an icecream" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
-**themadhankumar/themadhankumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...  
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
