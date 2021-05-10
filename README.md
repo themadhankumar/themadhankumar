@@ -25,20 +25,20 @@
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
 <img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/c-programming.svg" alt="C++ Logo png" title="C++" width="28" height="28"/>
-<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/cplusplus.svg" alt="C++ Logo png" title="C++" width="27" height="27"/>
-<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/python.svg" alt="Python Logo png" title="Python"width="26" height="26"/>
-<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/java.svg" alt="Java Logo png" title="Java" width="25" height="25"/>
-<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/javascript.svg" alt="JavaScript Logo png" title="JavaScript" width="25" height="25" />
-<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/html5.svg" alt="HTML5 Logo png Logo png" title="HTML5" width="25" height="25" />
-<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/css3.svg" alt="CSS3 Logo png" title="CSS3" width="25" height="25" />
-<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/dartlang.svg" alt="Dart Logo png" title="Dart" width="25" height="25" />
-<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/gnubash.svg" alt="Linux/GNU Bash Logo png" title="Linux/GNU Bash" width="25" height="25" />
+<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/cplusplus.svg" alt="C++ Logo png" title="C++" width="28" height="28"/>
+<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/python.svg" alt="Python Logo png" title="Python"width="28" height="28"/>
+<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/java.svg" alt="Java Logo png" title="Java" width="28" height="28"/>
+<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/javascript.svg" alt="JavaScript Logo png" title="JavaScript" width="28" height="28" />
+<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/html5.svg" alt="HTML5 Logo png Logo png" title="HTML5" width="28" height="28" />
+<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/css3.svg" alt="CSS3 Logo png" title="CSS3" width="28" height="28" />
+<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/dartlang.svg" alt="Dart Logo png" title="Dart" width="28" height="28" />
+<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/gnubash.svg" alt="Linux/GNU Bash Logo png" title="Linux/GNU Bash" width="28" height="28" />
 
-<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/linux.svg" alt="Linux Logo png" title="Linux" width="25" height="25" />
-<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/flutter-logo.svg" alt="Flutter Logo png" title="Flutter" width="25" height="25" />
-<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/git.svg" alt="git Logo png" title="Git" width="25" height="25" />
-<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/Bootstrap.svg" alt="Bootstrap Logo png" title="Bootstrap" width="25" height="25" />
-<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/kali-linux.svg" alt="Kali Linux Logo png" title="Kali Linux" width="25" height="25" />
+<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/linux.svg" alt="Linux Logo png" title="Linux" width="28" height="28" />
+<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/flutter-logo.svg" alt="Flutter Logo png" title="Flutter" width="28" height="28" />
+<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/git.svg" alt="git Logo png" title="Git" width="28" height="28" />
+<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/Bootstrap.svg" alt="Bootstrap Logo png" title="Bootstrap" width="28" height="28" />
+<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/kali-linux.svg" alt="Kali Linux Logo png" title="Kali Linux" width="28" height="28" />
 <img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/google_analytics-icon.svg" alt="Google Analytics Logo png" title="Google Analytics" width="25" height="25" />
 <img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/discord.svg" alt="Discord Logo png" title="Discord" width="25" height="25" />
 <img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/notion.svg" alt="Notion Logo png" title="Notion" width="25" height="25" />
