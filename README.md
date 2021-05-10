@@ -57,7 +57,7 @@
 
 <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="the.madhankumar" data-color="#FFDD00" data-emoji="🍦"  data-font="Poppins" data-text="Buy me an icecream" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 
-<a href="https://www.buymeacoffee.com/the.madhankumar" target="_blank"><img src="https://github.com/themadhankumar/themadhankumar/blob/main/assets/bmc-white.svg?raw=true" alt="Buy Me A Coffee" height="41" width="190"></a>
+<a href="https://www.buymeacoffee.com/the.madhankumar" target="_blank"><img src="https://github.com/themadhankumar/themadhankumar/blob/main/assets/bmc-white.svg?raw=true" alt="Buy Me A Coffee" ></a>
 
 <!--
 **themadhankumar/themadhankumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
