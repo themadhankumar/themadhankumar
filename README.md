@@ -19,8 +19,8 @@
 <p>Hi, I'm Madhan Kumar,a  Developer, Marketer and a Mentor. I have worked on Web Devleopment, Flutter App Development, Ethical Hacking, Cryptography, Blockchain. Currenly learning Data Science </p>
 
 - ⚡ Seek Discomfort
-- 🖥️ Check out my site: [themadhankumar.com](themadhankumar.com)
-- 💬 Drop me a **I am from your Github** in my [Instagram](instagram.com/themadhankumar) or [Twitter](twitter.com/themadhankumar) DMs. Let's Talk.
+- 🖥️ Check out my site: [themadhankumar.com](https://themadhankumar.com)
+- 💬 Drop me a **I am from your Github** in my [Instagram](https://instagram.com/themadhankumar) or [Twitter](https://twitter.com/themadhankumar) DMs. Let's Talk.
 - 📝 And my [Resume](https://github.com/themadhankumar/site/blob/main/assets/MadhanKumar.pdf)
 
 
