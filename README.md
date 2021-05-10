@@ -20,11 +20,39 @@
 
 - 🖥️ Check out my site: [themadhankumar.com](themadhankumar.com)
 - 💬 You can reach me out to network and for mentorship in [Instagram](instagram.com/themadhankumar) and [Twitter](twitter.com/themadhankumar).
-- My [Resume](https://github.com/themadhankumar/site/blob/main/assets/MadhanKumar.pdf)
+- And my [Resume](https://github.com/themadhankumar/site/blob/main/assets/MadhanKumar.pdf)
 
 <h2>🚀 Some Tools I Use</h2>
+<p align="left">
+<img class="tag-icons" src="assets/img/icons/c-programming-480.png" alt="C++ Logo png" title="C++" width="25" height="25"/>
+<img class="tag-icons" src="assets/img/icons/cplusplus.svg" alt="C++ Logo png" title="C++" width="25" height="25"/>
+<img class="tag-icons" src="assets/img/icons/python.svg" alt="Python Logo png" title="Python"width="25" height="25"/>
+<img class="tag-icons" src="assets/img/icons/java.svg" alt="Java Logo png" title="Java" width="25" height="25"/>
+<img class="tag-icons" src="assets/img/icons/javascript.svg" alt="JavaScript Logo png" title="JavaScript" width="25" height="25" />
+<img class="tag-icons" src="assets/img/icons/html5.svg" alt="HTML5 Logo png Logo png" title="HTML5" width="25" height="25" />
+<img class="tag-icons" src="assets/img/icons/css3.svg" alt="CSS3 Logo png" title="CSS3" width="25" height="25" />
+<img class="tag-icons" src="assets/img/icons/dart-100.png" alt="Dart Logo png" title="Dart" width="25" height="25" />
+<img class="tag-icons" src="assets/img/icons/gnubash.svg" alt="Linux/GNU Bash Logo png" title="Linux/GNU Bash" width="25" height="25" />
 
+<img class="tag-icons" src="assets/img/icons/linux-100.png" alt="Linux Logo png" title="Linux" width="25" height="25" />
+<img class="tag-icons" src="assets/img/icons/flutter-100.png" alt="Flutter Logo png" title="Flutter" width="25" height="25" />
+<img class="tag-icons" src="assets/img/icons/git.svg" alt="git Logo png" title="Git" width="25" height="25" />
+<img class="tag-icons" src="assets/img/icons/Bootstrap.svg" alt="Bootstrap Logo png" title="Bootstrap" width="25" height="25" />
+<img class="tag-icons" src="assets/img/icons/kali-linux-100.png" alt="Kali Linux Logo png" title="Kali Linux" width="25" height="25" />
+<img class="tag-icons" src="assets/img/icons/google_analytics-icon.svg" alt="Google Analytics Logo png" title="Google Analytics" width="25" height="25" />
+<img class="tag-icons" src="assets/img/icons/discord-new-logo-100.png" alt="Discord Logo png" title="Discord" width="25" height="25" />
+<img class="tag-icons" src="assets/img/icons/notion-100.png" alt="Notion Logo png" title="Notion" width="25" height="25" />
+<img class="tag-icons" src="assets/img/icons/slack-new-100.png" alt="Slack Logo png" title="Slack" width="25" height="25" />
+<img class="tag-icons" src="assets/img/icons/trello-100.png" alt="Trello Logo png" title="Trello" width="25" height="25" />
 
+<img class="tag-icons" src="assets/img/icons/canva.png" alt="Canva Logo png" title="Canva" width="25" height="25" />
+<img class="tag-icons" src="assets/img/icons/adobe-illustrator-100.png" alt="Adobe Illustrator Logo png" title="Adobe Illustrator" width="25" height="25" />
+<img class="tag-icons" src="assets/img/icons/adobe-photoshop-100.png" alt="Adobe Photoshop Logo png" title="Adobe Photoshop" width="25" height="25" />
+<img class="tag-icons" src="assets/img/icons/adobe-xd-100.png" alt="Adobe XD Logo png" title="Adobe XD" width="25" height="25" />
+<img class="tag-icons" src="assets/img/icons/davinci-resolve-100.png" alt="Davinci Resolve Logo png" title="Davinci Resolve" width="25" height="25" />
+
+<img class="tag-icons" src="assets/img/icons/mysql.png" alt="MySQL Logo png" title="MySQL" width="25" height="25" />
+<img class="tag-icons" src="assets/img/icons/mongodb.png" alt="mongodb" title="MongoDB" width="25" height="25" />
 <!--
 **themadhankumar/themadhankumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
