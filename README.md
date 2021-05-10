@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://themadhankumar.com/assets/img/titlecard/jpg">
+<img src="https://github.com/themadhankumar/site/blob/main/assets/img/titlecard.jpg">
 
 
 <!--
