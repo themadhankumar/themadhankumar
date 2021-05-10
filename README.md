@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-<p<a href="https://themadhankuamar.com"><img src="https://img.shields.io/badge/-themadhankumar-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://themadhankumar.com" alt="Website Badge"></a> 
+<p<a href="https://themadhankuamar.com"><img src="https://img.shields.io/badge/-themadhankumar.com-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://themadhankumar.com" alt="Website Badge"></a> 
  
- <a href="https://www.linkedin.com/in/madhan-kumar-0495b9a5/"><img src="https://img.shields.io/badge/-@themadhankumar-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/madhan-kumar-0495b9a5/" alt="LinkedIn Badge"></a>
+ <a href="https://www.linkedin.com/in/madhan-kumar-0495b9a5/"><img src="https://img.shields.io/badge/-@Madhan Kumarr-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/madhan-kumar-0495b9a5/" alt="LinkedIn Badge"></a>
  
  <a href="https://dev.to/spiderpig86"><img src="https://img.shields.io/badge/-@spiderpig86-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/spiderpig86" alt="DevTo Badge"></a> 
  
