@@ -24,9 +24,9 @@
 
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
-<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/c-programming.svg" alt="C++ Logo png" title="C++" width="25" height="25"/>
-<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/cplusplus.svg" alt="C++ Logo png" title="C++" width="25" height="25"/>
-<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/python.svg" alt="Python Logo png" title="Python"width="25" height="25"/>
+<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/c-programming.svg" alt="C++ Logo png" title="C++" width="25" height="28"/>
+<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/cplusplus.svg" alt="C++ Logo png" title="C++" width="25" height="27"/>
+<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/python.svg" alt="Python Logo png" title="Python"width="25" height="26"/>
 <img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/java.svg" alt="Java Logo png" title="Java" width="25" height="25"/>
 <img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/javascript.svg" alt="JavaScript Logo png" title="JavaScript" width="25" height="25" />
 <img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/html5.svg" alt="HTML5 Logo png Logo png" title="HTML5" width="25" height="25" />
