@@ -1,8 +1,8 @@
 <!--### Hi there 👋-->
 
-<a href = "https://www.themadhankumar.com">
+<p><a href = "https://www.themadhankumar.com">
   <img src="https://github.com/themadhankumar/site/blob/main/assets/img/titlecard.jpg" />
- </a>
+ </a></p>
   
   
   
