@@ -37,7 +37,7 @@
 <img class="tag-icons" src="assets/img/icons/linux-100.png" alt="Linux Logo png" title="Linux" width="25" height="25" />
 <img class="tag-icons" src="assets/img/icons/flutter-100.png" alt="Flutter Logo png" title="Flutter" width="25" height="25" />
 <img class="tag-icons" src="assets/img/icons/git.svg" alt="git Logo png" title="Git" width="25" height="25" />
-<img class="tag-icons" src="assets/img/icons/Bootstrap.svg" alt="Bootstrap Logo png" title="Bootstrap" width="25" height="25" />
+<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/Bootstrap.svg" alt="Bootstrap Logo png" title="Bootstrap" width="25" height="25" />
 <img class="tag-icons" src="assets/img/icons/kali-linux-100.png" alt="Kali Linux Logo png" title="Kali Linux" width="25" height="25" />
 <img class="tag-icons" src="assets/img/icons/google_analytics-icon.svg" alt="Google Analytics Logo png" title="Google Analytics" width="25" height="25" />
 <img class="tag-icons" src="assets/img/icons/discord-new-logo-100.png" alt="Discord Logo png" title="Discord" width="25" height="25" />
