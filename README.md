@@ -13,7 +13,7 @@
 </a>
 
 <a href="https://www.themadhankumar.com">
-  <img align="left" alt="Abhishek's LinkedIN" width="26px" src="https://img.shields.io/twitter/follow/themadhankumar?style=social" />
+  <img align="left" alt="Abhishek's LinkedIN" src="https://img.shields.io/twitter/follow/themadhankumar?style=social" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=themadhankumar.themadhankumar)
