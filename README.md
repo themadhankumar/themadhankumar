@@ -21,7 +21,7 @@
 
 
 <h2>🚀 Some Tools I Use</h2>
-<p align="left">
+<p align="center">
 <img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/c-programming.svg" alt="C++ Logo png" title="C++" width="28" height="28"/>
 <img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/cplusplus.svg" alt="C++ Logo png" title="C++" width="28" height="28"/>
 <img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/python.svg" alt="Python Logo png" title="Python"width="28" height="28"/>
