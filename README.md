@@ -13,7 +13,8 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=themadhankumar.themadhankumar)
-<br>
+
+
 <img src="https://github.com/themadhankumar/site/blob/main/assets/img/titlecard.jpg">
 
 
