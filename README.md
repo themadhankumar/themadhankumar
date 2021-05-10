@@ -55,6 +55,8 @@
 <h2>📈 My GitHub Stats</h2>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=themadhankumar&show_icons=true&theme=graywhite&count_private=true" alt="themadhankumar" />
 
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="the.madhankumar" data-color="#FFDD00" data-emoji="🍦"  data-font="Poppins" data-text="Buy me an icecream" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+
 <!--
 **themadhankumar/themadhankumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
