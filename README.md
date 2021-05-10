@@ -20,7 +20,8 @@
 
 - 🖥️ Check out my site: [themadhankumar.com](themadhankumar.com)
 - 💬 You can reach me out to network and for mentorship in [Instagram](instagram.com/themadhankumar) and [Twitter](twitter.com/themadhankumar).
-- And my [Resume](https://github.com/themadhankumar/site/blob/main/assets/MadhanKumar.pdf)
+- 📝 And my [Resume](https://github.com/themadhankumar/site/blob/main/assets/MadhanKumar.pdf)
+- ⚡ Seek Discomfort
 
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
