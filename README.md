@@ -51,7 +51,7 @@
 <img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/adobe-xd.svg" alt="Adobe XD Logo png" title="Adobe XD" width="28" height="28" />
 <img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/davinci-resolve-100.png" alt="Davinci Resolve Logo png" title="Davinci Resolve" width="28" height="28" />
 
-<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/mysql-white.svg" alt="MySQL Logo png" title="MySQL" width="28" height="28" />
+<img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/mysql.svg" alt="MySQL Logo png" title="MySQL" width="28" height="28" />
 <img class="tag-icons" src="https://github.com/themadhankumar/site/blob/main/assets/img/icons/mongodb.svg" alt="mongodb" title="MongoDB" width="28" height="28" />
 <!--
 **themadhankumar/themadhankumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
