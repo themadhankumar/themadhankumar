@@ -54,4 +54,4 @@
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=themadhankumar&show_icons=true&theme=graywhite&count_private=true" alt="themadhankumar" />
 
 <h3>If you appreciate what I do, You can make my day by getting me an Ice Cream 😁❤️</h3>
-<p><a href="https://www.buymeacoffee.com/the.madhankumar" target="_blank"><img src="https://github.com/themadhankumar/themadhankumar/blob/main/assets/bmc-white.svg?raw=true" alt="Buy Me A Coffee" height="58.23" width="200"></a></p>
+<p><a href="https://www.buymeacoffee.com/the.madhankumar" target="_blank"><img src="https://github.com/themadhankumar/themadhankumar/blob/main/assets/bmc-white.svg" alt="Buy Me A Coffee" height="58.23" width="200"></a></p>
