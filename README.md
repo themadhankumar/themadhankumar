@@ -18,7 +18,7 @@
 - ⚡ Seek Discomfort
 - 👥 Open to Work and Collab
 - 🖥️ Check out my site: [themadhankumar.com](https://themadhankumar.com)
-- 💬 Drop me a **I am from your Github** in my [Instagram](https://instagram.com/themadhankumar) or [Twitter](https://twitter.com/themadhankumar) DMs. Let's Talk.
+- 💬 Drop me a **'I am from your Github'** in my [Instagram](https://instagram.com/themadhankumar) or [Twitter](https://twitter.com/themadhankumar) DMs. Let's Talk.
 
 
 <h2>🚀 Some Tools I Use</h2>
